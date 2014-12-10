@@ -76,7 +76,7 @@ public class Partidos extends Activity {
 
     public void vermedia(View v){
 
-        tostada(gj.media("La media es: "+id[0].toString())+"");
+        tostada("La media es: "+gj.media(id[0].toString())+"");
     }
 
     public void vaciarCampos(){

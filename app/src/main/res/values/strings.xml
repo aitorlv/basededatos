@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PruebaBaseDatos</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_partidos">Partidos</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="fecha">Fecha nacimiento</string>
+    <string name="valoracion">Valoración</string>
+    <string name="contrincante">Contrincante</string>
+    <string name="insertar">Alta</string>
+    <string name="insertap">Insertar partidos</string>
+    <string name="media">Ver media</string>
+
+</resources>
